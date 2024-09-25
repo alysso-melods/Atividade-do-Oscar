@@ -37,7 +37,7 @@ db.oscarzinho.find({"nome_do_filme": {"$in": ["Toy Story", "Toy Story 2", "Toy S
   
 5 - A partir de que ano que a categoria "Actress" deixa de existir?
 
-R:  "1976 foi o último ano da categoria"
+R:  1976 foi o último ano da categoria
 
 Q: 
 ```js
@@ -46,7 +46,7 @@ db.oscarzinho.aggregate([{ $match: { categoria: "ACTRESS" } },{ $sort: { ano_cer
 
 6 - O primeiro Oscar para melhor Atriz foi para quem? Em que ano?
 
-R: Janet Gaynor na cerimonia de 1928.
+R: Janet Gaynor na cerimônia de 1928.
 
 Q:
 ```js
