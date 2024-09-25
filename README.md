@@ -151,7 +151,7 @@ db.oscarzinho.insertMany([
 ])
 ```
 
-14 - Pensando no ano em que você nasceu: Qual foi o Oscar de melhor filme, Melhor Atriz e Melhor Diretor?
+12 - Pensando no ano em que você nasceu: Qual foi o Oscar de melhor filme, Melhor Atriz e Melhor Diretor?
 
 R: Melhor Filme - Million Dollar Baby, Melhor Atriz - Hillary Swank, Melhor Diretor - Clint Eastwood
 
