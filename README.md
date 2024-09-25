@@ -74,7 +74,7 @@ db.oscarzinho.updateMany(
 
 8- Em qual edição do Oscar "Crash" concorreu ao Oscar?
 
-R: 2006
+R: No ano de 2006 na 78º cerimônia do Oscar
 
 Q: 
 ```js
@@ -113,7 +113,7 @@ db.oscarzinho.find({ nome_do_filme: "Central Station" })
 
 11 - Inclua no banco 3 filmes que nunca foram nem nomeados ao Oscar, mas que mereceiam ter sido.
 
-R: The Iron Claw(2023), Twin Peaks: Fire Walk with Me (1992), Heat (1995)
+R: The Iron Claw (2023), Twin Peaks: Fire Walk with Me (1992), Heat (1995)
 
 Q:
 ```js
