@@ -1,6 +1,8 @@
 # Atividade-do-Oscar
 1- Quantas vezes Natalie Portman foi indicada ao Oscar?
+
 R: 3 vezes
+
 Q: 
 ```js
 db.oscarzinho.countDocuments({ nome_do_indicado: "Natalie Portman" })
