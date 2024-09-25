@@ -6,7 +6,7 @@ Q:
 db.oscarzinho.countDocuments({ nome_do_indicado: "Natalie Portman" })
 ```
 
-2- 2- Quantos Oscars Natalie Portman ganhou?
+2- Quantos Oscars Natalie Portman ganhou?
 R: 1 vez
 Q: 
 ```js
